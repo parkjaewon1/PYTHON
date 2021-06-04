@@ -1,0 +1,4 @@
+cat: 고양이
+dog: 댕댕이
+school: 학교
+book: 책
